@@ -12,9 +12,9 @@ Perguntas respondidas:
 - Qual a evolução da obesidade nas faixas etárias? Tem diminuído?
 
 Ferramentas: 
-Python versão 3.9.12: Limpeza e manipulação dos dados
-Pandas: Criação do dataframe
-Matplotlib:Criação de gráficos 
+- Python versão 3.9.12: Limpeza e manipulação dos dados
+   - Pandas: Criação do dataframe
+   - Matplotlib:Criação de gráficos 
 Tableau: Visualização 
  
 Autores:
