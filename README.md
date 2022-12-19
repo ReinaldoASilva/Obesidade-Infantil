@@ -26,4 +26,4 @@ Linkedin -
 
 
 Fernando ferreira
-Linkedin - 
+[Linkedin](https://www.linkedin.com/in/fernando-ferreira-79ab6441/)
