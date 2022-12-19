@@ -111,10 +111,10 @@ Estado menos desenvolvido: Amapá
 
 Fontes:
 - Ministério da Saúde.
-- Instituto Brasileiro de Geografia e Estatística (2020)
+- Política Nacional de Alimentação e Nutrição
 
 Link para o projeto:
-https://public.tableau.com/app/profile/fernando.ferreira8852/viz/SaneamentoBsico2020/gua?publish=yes
+
 
 
 ## Autor:
