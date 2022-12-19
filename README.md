@@ -14,7 +14,7 @@ O que é Obesidade:
 
 Nesse estudo foi analisado o Dataset da Política Nacional de Alimentação e Nutrição (PNAN) que avalia a situação nutricional de 7,8 milhões de crianças na faixa etária entre 0 a 9 anos. De acordo com a amostra, 7,2% do total são obesas e estão sujeitas aos males da obesidade conforme mostra o gráfico abaixo:
 
- <img src="https://github.com/ReinaldoASilva/Projeto-Final/blob/main/grafico%20.jpeg" width="250" height="250">
+ <img src="https://github.com/ReinaldoASilva/Projeto-Final/blob/main/grafico%20.jpeg" width="500" height="500">
 
 ## Panorama da Obesidade infantil
 
