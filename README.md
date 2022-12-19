@@ -4,7 +4,7 @@
 Identificar os estados, as faixas etárias que tem o maior indice de obesidade e quais hábitos tem levado a esse problema
 
 ## Desenvolvimento
-Para o desenvolvimento do projeto, foi utilizado um dataset com informações de 7,8 milhões de crianças, de faixa etária entre de 0 a 9 anos, onde foi criado subcategorias de classificação de saúde: Baixo_peso, Adequado, Sobrepeso e obesidade.
+Para o desenvolvimento do projeto, foi utilizado um dataset com informações de 7,8 milhões de crianças, de faixa etária entre de 0 a 9 anos, onde foi criado subcategorias de classificação de saúde: Baixo_peso, Adequado, Sobrepeso e Obesidade.
 
 ## Perguntas respondidas:
 - Qual o panorama geral da nutrição no Brasil?
