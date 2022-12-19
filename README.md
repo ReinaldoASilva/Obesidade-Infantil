@@ -20,10 +20,7 @@ Para o desenvolvimento do projeto, foi utilizado um dataset com informações de
 - Tableau: Visualização 
  
 ## Autores:
-Reinaldo Alves Silva
-Linkedin - 
+Reinaldo Alves Silva - [Linkedin](https://www.linkedin.com/in/reinaldo-silva-15856558/)
 
 
-
-Fernando ferreira
-[Linkedin](https://www.linkedin.com/in/fernando-ferreira-79ab6441/)
+Fernando ferreira - [Linkedin](https://www.linkedin.com/in/fernando-ferreira-79ab6441/)
