@@ -3,7 +3,6 @@
 Objetivo do trabalho:
 Analisar a Obesidade Infantil no Brasil.
 
-![texto](https://github.com/ReinaldoASilva/Projeto-Final/blob/main/grafico%20.jpeg)
 ## Introdução
 
 O que é Obesidade:
@@ -16,7 +15,7 @@ O que é Obesidade:
 Nesse estudo foi analisado o Dataset da Política Nacional de Alimentação e Nutrição (PNAN) que avalia a situação nutricional de 7,8 milhões de crianças na faixa etária entre 0 a 9 anos. De acordo com a amostra, 7,2% do total são obesas e estão sujeitas aos males da obesidade conforme mostra os dados abaixo:
 
  
-#####imagem#####
+![texto](https://github.com/ReinaldoASilva/Projeto-Final/blob/main/grafico%20.jpeg)
 
 
 
