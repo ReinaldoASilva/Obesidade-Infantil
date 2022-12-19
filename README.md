@@ -13,7 +13,7 @@ O que é Obesidade:
 
 - Um dos problemas mais preocupantes atualmente, em relação ao tema, é a Obesidade Infantil. A OMS apontou que aproximadamente 124 milhões de crianças são obesas. No Brasil, 9,4% das meninas e 12,4% dos meninos são considerados obesos.
 
-Nesse estudo foi analisado o Dataset da Política Nacional de Alimentação e Nutrição (PNAN) que mostra a avaliação da situação nutricional de 7,8 milhões de crianças na faixa etária entre 0 a 9 anos. De acordo com a amostra,  7,2% do total são obesas e estão sujeitas aos males da obesidade conforme mostra os dados abaixo:
+Nesse estudo foi analisado o Dataset da Política Nacional de Alimentação e Nutrição (PNAN) que avalia a situação nutricional de 7,8 milhões de crianças na faixa etária entre 0 a 9 anos. De acordo com a amostra, 7,2% do total são obesas e estão sujeitas aos males da obesidade conforme mostra os dados abaixo:
 
  
 #####imagem#####
@@ -118,7 +118,7 @@ Link para o projeto:
 
 
 ## Autor:
-- Fernando Ferreira
+- Reinaldo Silva, Fernando Ferreira
 
 
 
