@@ -17,7 +17,7 @@ Para o desenvolvimento do projeto, foi utilizado um dataset com informações de
 - Python versão 3.9.12: Limpeza e manipulação dos dados
    - Pandas: Criação do dataframe
    - Matplotlib:Criação de gráficos 
-Tableau: Visualização 
+- Tableau: Visualização 
  
 ## Autores:
 Reinaldo Alves Silva
