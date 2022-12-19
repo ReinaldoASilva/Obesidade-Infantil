@@ -27,13 +27,7 @@ Com 8% de crianças tidas como obesas, a região Nordeste lidera o ranking da ob
 
 ![texto](https://github.com/ReinaldoASilva/Projeto-Final/blob/main/total_regioes.jpeg)
 
-Região	Taxa
-Nordeste	8,0%
-Sul	7,4%
-Sudeste	7,1%
-Centro-Oeste	6,2%
-Norte	5,2%
-	sendo que entre crianças menores de 2 anos, o índice é de 12,9%. 
+Sendo que entre crianças menores de 2 anos, o índice é de 12,9%. 
 Mapa da Obesidade Infantil
 Vamos aprofundar nos números de crianças obesas.
 De acordo com o slide anterior, cerca de 7,2% das crianças são obesas.
