@@ -20,7 +20,9 @@ Nesse estudo foi analisado o Dataset da Política Nacional de Alimentação e Nu
 ## Panorama da Obesidade infantil
 
 De acordo com a amostra, 75,9% de 0 à 9 anos, das crianças estão com o peso adequado conforme sua idade e 6,5% são crianças com BAIXO PESO.
+
 •	Em relação à excesso de peso, 10,5% (823mil) das crianças estão com SOBREPESO e 7,2% (565mil) foram consideradas OBESAS;
+
 Esses números são alarmantes devido a lista de males que a obesidade pode causar nessas crianças tanto na infância quanto na vida adulta e, consequentemente isso acarreta em sobrecarga no sistema de saúde.
 
 Com 8% de crianças tidas como obesas, a região Nordeste lidera o ranking da obesidade infantil:
