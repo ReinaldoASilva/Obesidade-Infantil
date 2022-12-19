@@ -25,7 +25,7 @@ De acordo com a amostra, 75,9% de 0 à 9 anos, das crianças estão com o peso a
 
 Com 8% de crianças tidas como obesas, a região Nordeste lidera o ranking da obesidade infantil:
 
-![texto](https://github.com/ReinaldoASilva/Projeto-Final/commit/f11c2c014adc4fbb663c6b82dc3d763f82011965)
+![texto](https://github.com/ReinaldoASilva/Projeto-Final/blob/f11c2c014adc4fbb663c6b82dc3d763f82011965/total_regioes.jpeg)
 
 Sendo que entre crianças menores de 2 anos, o índice é de 12,9%. 
 Mapa da Obesidade Infantil
