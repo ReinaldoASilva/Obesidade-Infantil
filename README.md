@@ -110,7 +110,7 @@ Estado menos desenvolvido: Amapá
 ## Bibliografia
 
 Fontes:
-- Sistema Nacional de Informações sobre Saneamento (SNIS 2020).
+- Ministério da Saúde.
 - Instituto Brasileiro de Geografia e Estatística (2020)
 
 Link para o projeto:
