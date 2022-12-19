@@ -15,6 +15,7 @@ O que é Obesidade:
 Nesse estudo foi analisado o Dataset da Política Nacional de Alimentação e Nutrição (PNAN) que avalia a situação nutricional de 7,8 milhões de crianças na faixa etária entre 0 a 9 anos. De acordo com a amostra, 7,2% do total são obesas e estão sujeitas aos males da obesidade conforme mostra o gráfico abaixo:
 
  <img src="https://github.com/ReinaldoASilva/Projeto-Final/blob/main/grafico%20.jpeg" width="700" height="500">
+ 
 
 ## Panorama da Obesidade infantil
 
@@ -24,21 +25,11 @@ De acordo com a amostra, 75,9% de 0 à 9 anos, das crianças estão com o peso a
 
 Com 8% de crianças tidas como obesas, a região Nordeste lidera o ranking da obesidade infantil:
 
-![texto](https://github.com/ReinaldoASilva/Projeto-Final/blob/f11c2c014adc4fbb663c6b82dc3d763f82011965/total_regioes.jpeg)
+<img src="https://github.com/ReinaldoASilva/Projeto-Final/blob/f11c2c014adc4fbb663c6b82dc3d763f82011965/total_regioes.jpeg" width="700" height="500">
 
-Sendo que entre crianças menores de 2 anos, o índice é de 12,9%:
+Sendo que entre crianças menores de 2 anos, o índice é de 12,9%. 
 
-
-
-
-
-
-
-
-
-
-
-
+<img src="https://github.com/ReinaldoASilva/Projeto-Final/blob/main/obesidade_faixa_etaria.jpeg" width="750" height="500">
 
 Mapa da Obesidade Infantil
 Vamos aprofundar nos números de crianças obesas.
