@@ -16,11 +16,11 @@ Para o desenvolvimento do projeto, foi utilizado um dataset com informações de
 ## Ferramentas: 
 - Python versão 3.9.12: Limpeza e manipulação dos dados
    - Pandas: Criação do dataframe
-   - Matplotlib:Criação de gráficos 
+   - Matplotlib: Criação de gráficos 
 - Tableau: Visualização 
  
 ## Autores:
 Reinaldo Alves Silva - [Linkedin](https://www.linkedin.com/in/reinaldo-silva-15856558/)
 
 
-Fernando ferreira - [Linkedin](https://www.linkedin.com/in/fernando-ferreira-79ab6441/)
+Fernando Ferreira - [Linkedin](https://www.linkedin.com/in/fernando-ferreira-79ab6441/)
