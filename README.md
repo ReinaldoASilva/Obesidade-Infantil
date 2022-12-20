@@ -1,23 +1,40 @@
 
-## Objetivo
+<div align="center">
+<img src="https://www.camarapoa.rs.gov.br/banco_de_imagens/imagens/68579/original/obesidade.jpg?1657631115" />
+</div>
+
+🆘 Project status(On-Hold) ⚠️
+
+##  Objetivo
 
 Identificar os estados, as faixas etárias que tem o maior indice de obesidade e quais hábitos tem levado a esse problema
 
-## Desenvolvimento
+##  Desenvolvimento
 Para o desenvolvimento do projeto, foi utilizado um dataset com informações de 7,8 milhões de crianças, de faixa etária entre de 0 a 9 anos, onde foi criado subcategorias de classificação de saúde: Baixo_peso, Adequado, Sobrepeso e Obesidade.
 
-## Perguntas respondidas:
+##  Perguntas respondidas:
 - Qual o panorama geral da nutrição no Brasil?
 - Qual a região que mostra números mais alarmantes?
 - Qual o estado que tem mais casos?
 - Qual a faixa etária que mostra mais risco?
 - Qual a evolução da obesidade nas faixas etárias? Tem diminuído?
 
-## Ferramentas: 
+##  Ferramentas: 
 - Python versão 3.9.12: Limpeza e manipulação dos dados
    - Pandas: Criação do dataframe
    - Matplotlib: Criação de gráficos 
 - Tableau: Visualização 
+
+## Copyright
+
+- http://189.28.128.100/dab/docs/portaldab/publicacoes/dados_atlas_obesidade.pdf
+- https://www.unimed.coop.br/viver-bem/pais-e-filhos/obesidade-infantil
+- https://www.istoedinheiro.com.br/o-acucar-e-inimigo-da-aprendizagem-e-da-memoria-revela-novo-estudo/
+- https://www.previva.com.br/novosite/indice-de-obesidade-no-brasil-segue-crescendo/
+- https://www.nexojornal.com.br/externo/2022/01/15/O-efeito-do-açúcar-no-cérebro-de-crianças-e-adolescentes
+- https://tourlife.com.br/efeitos-do-acucar-no-cerebro/
+- https://www.oliberal.com/saude/veja-o-que-acontece-com-o-seu-corpo-quando-voce-para-de-comer-acucar-1.509927
+
  
 ## Autores:
 Reinaldo Alves Silva - [Linkedin](https://www.linkedin.com/in/reinaldo-silva-15856558/)
