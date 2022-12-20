@@ -27,13 +27,12 @@ Para o desenvolvimento do projeto, foi utilizado um dataset com informações de
 
 ## Copyright
 
-- http://189.28.128.100/dab/docs/portaldab/publicacoes/dados_atlas_obesidade.pdf
-- https://www.unimed.coop.br/viver-bem/pais-e-filhos/obesidade-infantil
-- https://www.istoedinheiro.com.br/o-acucar-e-inimigo-da-aprendizagem-e-da-memoria-revela-novo-estudo/
-- https://www.previva.com.br/novosite/indice-de-obesidade-no-brasil-segue-crescendo/
-- https://www.nexojornal.com.br/externo/2022/01/15/O-efeito-do-açúcar-no-cérebro-de-crianças-e-adolescentes
-- https://tourlife.com.br/efeitos-do-acucar-no-cerebro/
-- https://www.oliberal.com/saude/veja-o-que-acontece-com-o-seu-corpo-quando-voce-para-de-comer-acucar-1.509927
+- http://189.28.128.100/dab/docs/portaldab/publicacoes/dados_atlas_obesidade.pdf - Atlas da Obesidade infantil
+- https://www.unimed.coop.br/viver-bem/pais-e-filhos/obesidade-infantil - Obesidade infantil: as causas, os riscos e como prevenir esse problema.
+- https://www.istoedinheiro.com.br/o-acucar-e-inimigo-da-aprendizagem-e-da-memoria-revela-novo-estudo/ - O açúcar é inimigo da aprendizagem 
+- https://www.previva.com.br/novosite/indice-de-obesidade-no-brasil-segue-crescendo/ - Crescimento da Obesidade
+- https://www.nexojornal.com.br/externo/2022/01/15/O-efeito-do-açúcar-no-cérebro-de-crianças-e-adolescentes - Efeitos do açucar no cérebro 
+- https://tourlife.com.br/efeitos-do-acucar-no-cerebro/ - Efeitos do açúcar no cérebro 
 
  
 ## Autores:
