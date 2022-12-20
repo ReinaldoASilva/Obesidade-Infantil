@@ -21,6 +21,6 @@ Para o desenvolvimento do projeto, foi utilizado um dataset com informações de
  
 ## Autores:
 Reinaldo Alves Silva - [Linkedin](https://www.linkedin.com/in/reinaldo-silva-15856558/)
-
+/ [Medium](https://medium.com/@reinaldo.silva) / [YouTube](https://www.youtube.com/channel/UCELBXwJnsu9QlTSONJy6w8w) / [GitHub](https://github.com/ReinaldoASilva) / [Kaggle](https://www.kaggle.com/reinaldoasilva)
 
 Fernando Ferreira - [Linkedin](https://www.linkedin.com/in/fernando-ferreira-79ab6441/)
