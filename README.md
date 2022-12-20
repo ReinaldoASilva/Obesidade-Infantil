@@ -20,9 +20,9 @@ Para o desenvolvimento do projeto, foi utilizado um dataset com informações de
 - Qual a evolução da obesidade nas faixas etárias? Tem diminuído?
 
 ##  Ferramentas: 
-- Python versão 3.9.12: Limpeza e manipulação dos dados
-   - Pandas: Criação do dataframe
-   - Matplotlib: Criação de gráficos 
+- Python - Versão 3.9.12: Limpeza e manipulação dos dados
+   - Pandas - Versão 1.4.2 : Criação do dataframe
+   - Matplotlib - Versão 3.5.1: Criação de gráficos 
 - Tableau: Visualização 
 
 ## Copyright
