@@ -3,7 +3,7 @@
 <img src="https://www.camarapoa.rs.gov.br/banco_de_imagens/imagens/68579/original/obesidade.jpg?1657631115" />
 </div>
 
-🆘 Project status(On-Hold) ⚠️
+Project status(On-Hold) ⚠️
 
 ##  Objetivo
 
